@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-EPZP4821ZELotQK74Fz3nnxRc3JJFAwIfnzMSfCXs7g=",
+      "hash": "sha256-H4STzGuQoASpFKJ8jlYrJEN9dmMyqMwGNJr4hQXNey8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-X9ZvXiTBwIg66X166HFGmIMfsS9t4m7ZR6wdcNYylLM=",
+      "hash": "sha256-mRIbJ0oEE8ZwD4OUgs\/az+BaKYtYdWx9SmbJAuzQBA8=",
       "url": "_framework\/Auta.Client.dll"
     },
     {
@@ -153,6 +153,10 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
+      "hash": "sha256-\/MAbjvDEs5iOWv8ECpgYRLZ9TbeyRAWTlJOP2IZE5R8=",
+      "url": "_framework\/System.Console.dll"
+    },
+    {
       "hash": "sha256-QYsQo6rLE8MECS0\/5avJ7oww6rX4yHQ0rZxTw1lsgQ0=",
       "url": "_framework\/System.dll"
     },
@@ -185,7 +189,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-+dGVziNFfue4bt0g2PvSzGGGsd6i7X4+j08jsU7x2mo=",
+      "hash": "sha256-gmTzym5kS57+35LcxXn3NHEYdSzCA\/F\/wUCkGikEaRY=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -289,5 +293,5 @@
       "url": "index.html"
     }
   ],
-  "version": "KxJLsePI"
+  "version": "Sft8jfw4"
 };

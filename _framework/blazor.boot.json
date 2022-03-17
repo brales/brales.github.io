@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Auta.Client.dll": "sha256-X9ZvXiTBwIg66X166HFGmIMfsS9t4m7ZR6wdcNYylLM=",
+      "Auta.Client.dll": "sha256-mRIbJ0oEE8ZwD4OUgs\/az+BaKYtYdWx9SmbJAuzQBA8=",
       "Auta.Shared.dll": "sha256-CM3ggl4Wazdg6XsX0KHAywNjj3xJ6v+4BFfJ\/vpMrzY=",
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-VpsLoUvXw\/4RjmiNRtmlBUHJRnDIAWacvjsCDdH5NBE=",
@@ -36,6 +36,7 @@
       "System.ComponentModel.dll": "sha256-uZC2PXFT6Hm1Vm+Tr+lMflK7VnG5KI9PKIKI\/fxORCk=",
       "System.ComponentModel.Primitives.dll": "sha256-6lwJG+n5PL90YD\/Bcv5vQlewO9R+OMCLvYiwyfCiM84=",
       "System.ComponentModel.TypeConverter.dll": "sha256-PpF3C74OC\/eUM+iETuY5jcXJlXo9p3U0m3659H4nVrI=",
+      "System.Console.dll": "sha256-\/MAbjvDEs5iOWv8ECpgYRLZ9TbeyRAWTlJOP2IZE5R8=",
       "System.dll": "sha256-QYsQo6rLE8MECS0\/5avJ7oww6rX4yHQ0rZxTw1lsgQ0=",
       "System.Linq.dll": "sha256-jO8YHRLJSNitrj2B8NJXMNfwLC\/IfvFIPaSotFM91HI=",
       "System.Linq.Expressions.dll": "sha256-eN5VIczsn2zFtoL\/3nWhO4+gw\/7AxwJTrSn2DKyQOHc=",
@@ -44,7 +45,7 @@
       "System.Net.Http.Json.dll": "sha256-hM41ydRtoekGasJfBC0GIVDTQ9haxgAViaTp\/MpDYuQ=",
       "System.Net.Primitives.dll": "sha256-YZmmQ0f7ZmiK6dkiB0Nj8xRHyFeDaMnux8u0VTiRUoE=",
       "System.ObjectModel.dll": "sha256-WhxkSOgPkJ82FiE5rg6x7hVqbVK2fgREgfPwc8hR4FE=",
-      "System.Private.CoreLib.dll": "sha256-+dGVziNFfue4bt0g2PvSzGGGsd6i7X4+j08jsU7x2mo=",
+      "System.Private.CoreLib.dll": "sha256-gmTzym5kS57+35LcxXn3NHEYdSzCA\/F\/wUCkGikEaRY=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-KDAxakgnLd9pJG7rPf74LmOlqpOtm3xJrF79SE72dAc=",
       "System.Private.Uri.dll": "sha256-lNf0V2ihE6DEFyA6Y8Bym\/woG+XTs6ieCftAVKLT3V0=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-ufFSha4OcIZ3XLzApbVs\/NP5krkuqgiMXeTyCQg8dPs=",
