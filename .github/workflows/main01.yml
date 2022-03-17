@@ -26,9 +26,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Commit to GitHub pages Repo
         if: success()
-        uses: brales/ghaction-github-pages@v1.5.1
+        uses: brales.github.io/github-pages-deploy-action@3.7.1
         with:
-          target_branch: main
-          build_dir: ${{ env.PUBLISH_DIR }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            BRANCH: main
+            FOLDER: ./
