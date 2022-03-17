@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Auta.Client.dll": "sha256-mRIbJ0oEE8ZwD4OUgs\/az+BaKYtYdWx9SmbJAuzQBA8=",
+      "Auta.Client.dll": "sha256-0B4tXkOmPBav4EnAYqbcs0FtYE7xY2qYCH0JHeZ+MYs=",
       "Auta.Shared.dll": "sha256-CM3ggl4Wazdg6XsX0KHAywNjj3xJ6v+4BFfJ\/vpMrzY=",
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-VpsLoUvXw\/4RjmiNRtmlBUHJRnDIAWacvjsCDdH5NBE=",

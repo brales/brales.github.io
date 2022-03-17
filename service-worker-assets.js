@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-H4STzGuQoASpFKJ8jlYrJEN9dmMyqMwGNJr4hQXNey8=",
+      "hash": "sha256-+xftNawm4GuE2h8qZ5wPV7n8tmKpkzZ\/vwe1IBMuSsw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-mRIbJ0oEE8ZwD4OUgs\/az+BaKYtYdWx9SmbJAuzQBA8=",
+      "hash": "sha256-0B4tXkOmPBav4EnAYqbcs0FtYE7xY2qYCH0JHeZ+MYs=",
       "url": "_framework\/Auta.Client.dll"
     },
     {
@@ -293,5 +293,5 @@
       "url": "index.html"
     }
   ],
-  "version": "Sft8jfw4"
+  "version": "gNmSVjQ3"
 };
