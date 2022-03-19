@@ -33,20 +33,20 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-CewyxHzp6HbJ6QHP\/sqnNyByTs4IAlcNvl9MAzSIcp0=",
+      "hash": "sha256-tTmE\/Z8MOgKCGsT8ZxptoUiX5pArNP6zuR4fNTKWPFc=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-rkebynyxI5Gc+KXJhyA\/gQSIVUncdqtXcecQbL2eO5M=",
+      "url": "_framework\/Auta.Client.dll"
+    },
+    {
+      "hash": "sha256-jRMODTYR\/6eIXVVq0M\/U+++EyO30qTdApNxop0N+iTU=",
+      "url": "_framework\/Auta.Shared.dll"
     },
     {
       "hash": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "url": "_framework\/Blazored.LocalStorage.dll"
-    },
-    {
-      "hash": "sha256-HLbg3fhD\/b\/jgM0+0IEr4deLxZ1W7COLQLO\/3hroq+A=",
-      "url": "_framework\/Build.Client.dll"
-    },
-    {
-      "hash": "sha256-1sdI\/Tpu8\/7fEndD1IyayTs02mpVIZqQJOMZ9fzBVFo=",
-      "url": "_framework\/Build.Shared.dll"
     },
     {
       "hash": "sha256-VpsLoUvXw\/4RjmiNRtmlBUHJRnDIAWacvjsCDdH5NBE=",
@@ -233,8 +233,8 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-ON3YZ1ZH3nN91YSI\/ScTiNvJ2c8r6AE5PAZKMxKL5SY=",
-      "url": "Build.Client.styles.css"
+      "hash": "sha256-FZZxFGIK1ckp\/bmquGu3RWW9\/4C+HO1WPQJoD521\/f4=",
+      "url": "Auta.Client.styles.css"
     },
     {
       "hash": "sha256-TyPz9DZn\/cQ6gCGjHEuU4ZJCgaitqISFVc92mDvA\/t4=",
@@ -293,9 +293,9 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-lrKWr3fGCf5B\/e72nIghfPktAAaTCPCTXiZyHVrzNtY=",
+      "hash": "sha256-sfl48c0XIc2X+r3bNP0El8Mic3IKfD\/vVdf59nwFK5s=",
       "url": "index.html"
     }
   ],
-  "version": "2H74LEq1"
+  "version": "6szdsQ2C"
 };
