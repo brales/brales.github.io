@@ -33,20 +33,20 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-7Lv0hLMtZF96LeicMKfNyinYyUSxOeuzWrilAqvjXEk=",
+      "hash": "sha256-CewyxHzp6HbJ6QHP\/sqnNyByTs4IAlcNvl9MAzSIcp0=",
       "url": "_framework\/blazor.boot.json"
-    },
-    {
-      "hash": "sha256-Bdvq+fMBv59sG6m6a8+zY28grfAemwsul5tIAbvBrDM=",
-      "url": "_framework\/Auta.Client.dll"
-    },
-    {
-      "hash": "sha256-3dgyYLO+M3Ur5s5YT\/M\/RU4vyCuoJl4W91ZqB52DGZg=",
-      "url": "_framework\/Auta.Shared.dll"
     },
     {
       "hash": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "url": "_framework\/Blazored.LocalStorage.dll"
+    },
+    {
+      "hash": "sha256-HLbg3fhD\/b\/jgM0+0IEr4deLxZ1W7COLQLO\/3hroq+A=",
+      "url": "_framework\/Build.Client.dll"
+    },
+    {
+      "hash": "sha256-1sdI\/Tpu8\/7fEndD1IyayTs02mpVIZqQJOMZ9fzBVFo=",
+      "url": "_framework\/Build.Shared.dll"
     },
     {
       "hash": "sha256-VpsLoUvXw\/4RjmiNRtmlBUHJRnDIAWacvjsCDdH5NBE=",
@@ -69,7 +69,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-s9XxWhxP+rb7L7dwu6+GXBeajJTY8dxzknK3IU12+LI=",
+      "hash": "sha256-x4Pj8G1YXGzl8mnSf\/ogNOLt4ShV5JsMRAAzGAoWkZ4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -233,8 +233,8 @@
       "url": "appsettings.json"
     },
     {
-      "hash": "sha256-FZZxFGIK1ckp\/bmquGu3RWW9\/4C+HO1WPQJoD521\/f4=",
-      "url": "Auta.Client.styles.css"
+      "hash": "sha256-ON3YZ1ZH3nN91YSI\/ScTiNvJ2c8r6AE5PAZKMxKL5SY=",
+      "url": "Build.Client.styles.css"
     },
     {
       "hash": "sha256-TyPz9DZn\/cQ6gCGjHEuU4ZJCgaitqISFVc92mDvA\/t4=",
@@ -293,9 +293,9 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-sfl48c0XIc2X+r3bNP0El8Mic3IKfD\/vVdf59nwFK5s=",
+      "hash": "sha256-lrKWr3fGCf5B\/e72nIghfPktAAaTCPCTXiZyHVrzNtY=",
       "url": "index.html"
     }
   ],
-  "version": "q6\/RFmV5"
+  "version": "2H74LEq1"
 };
