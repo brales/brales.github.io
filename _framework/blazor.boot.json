@@ -4,14 +4,14 @@
     "appsettings.json"
   ],
   "debugBuild": false,
-  "entryAssembly": "Auta.Client",
+  "entryAssembly": "Build.Client",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Auta.Client.dll": "sha256-rkebynyxI5Gc+KXJhyA\/gQSIVUncdqtXcecQbL2eO5M=",
-      "Auta.Shared.dll": "sha256-jRMODTYR\/6eIXVVq0M\/U+++EyO30qTdApNxop0N+iTU=",
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
+      "Build.Client.dll": "sha256-6tKiz9BMd+oCFnQUK9XoCNoNoHXyMxeepaADh6Ptf+o=",
+      "Build.Shared.dll": "sha256-vDbG43bj9SS\/PuBHvjEWEJXMM2+RJYjL11Zm0vrgH48=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-VpsLoUvXw\/4RjmiNRtmlBUHJRnDIAWacvjsCDdH5NBE=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-uko9pXbgMsyrH6DybvNTSebMPbuBYbsEYZz3qCxYpTs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ovhaTRpyJN9LkOjNiuBtnYdZ0vSqpykFKkK8zqVobqI=",
